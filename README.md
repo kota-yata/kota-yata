@@ -5,8 +5,22 @@
  
  See [kota-yata.com](https://www.kota-yata.com/) for detail about me :)
  
+## Usable Languages
+#### JavaScript・TypeScript
+ - Svelte
+ - Node.js
+#### Python
+ - Selenium
+ - Beautiful Soup
+ 
+#### Other
+ - Unity
+ - AWS
+ - Firebase
+ 
 # Web Application
- - Multi-MD : [repo](https://github.com/kota-yata/Multi-MD) | [web site](https://multimd.cf/)
+ - Bullshit Trivia : [repo](https://github.com/kota-yata/Bullshit-Trivia) | [Web site](https://bullshit-trivia.com)
+ - Multi-MD : [repo](https://github.com/kota-yata/Multi-MD) | [Web site](https://multimd.cf/)
 
 # npm packages
  - neornd : [repo](https://github.com/kota-yata/neornd) | [npm page](https://www.npmjs.com/package/neornd)
