@@ -4,18 +4,12 @@
  
  See [kota-yata.com](https://www.kota-yata.com/) for detail about me :)
  
-## Usable Languages
-#### JavaScript・TypeScript
- - Svelte
- - Node.js
-#### Python
- - Selenium
- - Beautiful Soup
- 
-#### Other
- - Unity
- - AWS
- - Firebase
+## Usable Tools
+- JavaScript・TypeScript (Svelte, Node.js)
+- Python for scraping (Selenium, Beautifulsoup)
+- Unity
+- AWS
+- Firebase
  
 # Web Application
  - Bullshit Trivia : [repo](https://github.com/kota-yata/Bullshit-Trivia) | [Web site](https://bullshit-trivia.com)
