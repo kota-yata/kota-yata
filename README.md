@@ -1,7 +1,6 @@
 # Who is me
  - Frontend Developer
- - Unwelcome Contributor
- - Student Staff of [CCC2020](https://ccc2020.code4japan.org/)
+ - 17 years old and can't use Docker
  
  See [kota-yata.com](https://www.kota-yata.com/) for detail about me :)
  
