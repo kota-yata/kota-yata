@@ -1,6 +1,6 @@
 # Who is me
  - Frontend Developer
- - 17 years old and can't use Docker
+ - 17 years old.
  
  See [kota-yata.com](https://www.kota-yata.com/) for detail about me :)
  
