@@ -4,12 +4,6 @@
  
  See [kota-yata.com](https://www.kota-yata.com/) for detail about me :)
  
-## Usable Tools
-- JavaScript・TypeScript (Svelte, Node.js)
-- Python for scraping (Selenium, Beautifulsoup)
-- AWS (Lambda, Cloud9, S3)
-- Firebase (Auth, RealtimeDatabase, Firestore)
- 
 # Works
  - Bullshit Trivia : [repo](https://github.com/kota-yata/Bullshit-Trivia) | [Web site](https://bullshit-trivia.com)
  - Multi-MD : [repo](https://github.com/kota-yata/Multi-MD) | [Web site](https://multimd.cf/)
