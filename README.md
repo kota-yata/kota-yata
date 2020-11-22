@@ -1,4 +1,4 @@
-# Who is me
+# Who I am
  - Frontend Developer
  - 17 years old.
  
