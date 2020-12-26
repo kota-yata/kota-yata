@@ -1,14 +1,4 @@
-# Who I am
- - Frontend Developer
- - 17 years old.
- 
- See [kota-yata.com](https://www.kota-yata.com/) for detail about me :)
- 
-# Works
- - Bullshit Trivia : [repo](https://github.com/kota-yata/Bullshit-Trivia) | [Web site](https://bullshit-trivia.com)
- - Multi-MD : [repo](https://github.com/kota-yata/Multi-MD) | [Web site](https://multimd.cf/)
-
-## npm packages
- - neornd : [repo](https://github.com/kota-yata/neornd) | [npm page](https://www.npmjs.com/package/neornd)
- - iso-639-1-jp : [repo](https://github.com/kota-yata/iso-639-1-jp) | [npm page](https://www.npmjs.com/package/iso-639-1-jp)
- - percom : [repo](https://github.com/kota-yata/Percom) | [npm page](https://www.npmjs.com/package/percom)
+[![](https://raw.githubusercontent.com/kota-yata/kota-yata/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/kota-yata/kota-yata/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/kota-yata/kota-yata/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://komarev.com/ghpvc/?username=kota-yata&color=green)
