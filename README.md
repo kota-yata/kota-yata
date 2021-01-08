@@ -6,17 +6,6 @@ Since I also have interest in Network Architecture and Security, I've been study
 Furthermore, I'm going to study more basic knowledges a web developer has to have (Docker,AWS,GCP etc..).
 
 ## Interests
-### Self-Sovereign Identity
-  - [Decentralized Identifier](https://www.w3.org/TR/did-core/): Reading Specification
-  - [Verifiable Credential](https://www.w3.org/TR/vc-data-model/): Reading Specification
-
-### npm packages
-  - [neornd](https://github.com/kota-yata/neornd)
-  - [percom](https://github.com/kota-yata/Percom)
-  - [iso-639-1-jp](https://github.com/kota-yata/iso-639-1-jp)
-
-### Languages as a hobby
-  - C++ : [Era Converter](https://github.com/kota-yata/Era-Converter)
-  - Go : [KEC](https://github.com/kota-yata/kec)
+Self-Sovereign Identity (also VC/DID), C++, GO
 
 ![](https://komarev.com/ghpvc/?username=kota-yata&color=green)
