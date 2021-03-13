@@ -6,5 +6,5 @@ a front-end Developer using JS/TS, also have interest in algorithm.
 ## Fun fact
 Tweak a little bit === Ruin it all
 
-## language as a hobby
+## languages as a hobby
 Go, Python
