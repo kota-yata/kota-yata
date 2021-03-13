@@ -3,7 +3,7 @@
 ## kota-yata is
 - a front-end Developer using JS/TS
 - having interest in algorithm
-- working on drawing tool using HTML Canvas
+- working on a drawing tool using HTML Canvas, Huffman coding in TS
 
 ## Rule of thumb
 Tweak a little bit === Ruin it all
