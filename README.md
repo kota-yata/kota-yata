@@ -10,3 +10,8 @@ Tweak a little bit === Ruin it all
 
 ## languages as a hobby
 Go, Python
+
+## More info
+https://kota-yata.com
+
+Zenn : https://zenn.dev/kota_yata
